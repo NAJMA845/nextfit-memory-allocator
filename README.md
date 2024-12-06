@@ -22,7 +22,7 @@ This project was developed using the following frameworks, tools, and technologi
   - **Java Swing**: Used to build the graphical user interface (GUI). It provides a set of lightweight (all-Java language) components for building user interfaces.
   
 - **Tools**:
-  - **IDE**: The project was developed using **JetBrains IntelliJ IDEA** as the code editor for writing, compiling, and testing the Java code.
+  - **IDE**: The project was developed using **visual Studio Code** as the code editor for writing, compiling, and testing the Java code.
   - **JDK (Java Development Kit)**: JDK 8 or above is required to run and compile the Java code.
   
 - **Version Control**:
