@@ -16,7 +16,7 @@ class MemoryBlock {
 }
 
 public class NextFitAllocator {
-    private static ArrayList<MemoryBlock> memory = new ArrayList<>(); // List to store memory blocks
+    private static ArrayList<MemoryBlock> memory = new ArrayList<>(); // List to store memry blocks
     private static JTextArea resultArea; // Area to display results
     private static JTextField memoryInput, processesInput; // Input fields for memory and processes
     // Colors for UI design
